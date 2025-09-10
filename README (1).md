@@ -122,7 +122,4 @@ def recommend(query, n=5):
 
 ## 👨‍💻 Author
 **Prakash Danny Sagar A**  
-AI/ML & Business Strategy Projects | Pharma | E-commerce | Carbon Credits  
-
-🌐 [LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com)  
-
+for Upgrad Helpmate Project submission
